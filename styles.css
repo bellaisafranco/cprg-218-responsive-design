@@ -5,3 +5,8 @@ body{
     background-color: pink;
     color:black
 }
+@media screen and (max-width:480px){
+body{
+    background-color: lightskyblue;
+    }}
+/**mobile size 320 to 480 **/
